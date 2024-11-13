@@ -46,8 +46,7 @@ Sample Actions
 Viewing Rooms: Choose 1 to see the list of all rooms and their statuses.
 Booking a Room: Choose 2, then type the room number (e.g., 101) when prompted.
 Releasing a Room: Choose 3, then type the room number (e.g., 101) to release it.
-Code Overview
-The project consists of two main components:
+   
 
 
 Feel free to fork this repository and submit pull requests for new features, bug fixes, or improvements.
